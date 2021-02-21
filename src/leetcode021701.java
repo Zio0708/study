@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
+//palindrome-partitioning
 public class leetcode021701 {
     static List<List<String>> answer;
     static boolean[][] check;
