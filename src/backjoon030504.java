@@ -81,4 +81,4 @@ public class backjoon030504 {
         }
         return distance;
     }
-}
+}//이거 별로 다익스트라 치고 안깔끔함
